@@ -20,7 +20,7 @@ public class Order
             _sendEmail.EmailFrom = "mabatista1@gmail.com";
             _sendEmail.EmailTo = "mabatista2@gmail.com";
             _sendEmail.EmailSubject = "Single Responsability Principle";
-            _sendEmail.EmailBody = "Learning the first principle of SOLID Principles";
+            // _sendEmail.EmailBody = "Learning the first principle of SOLID Principles";
             _sendEmail.Send();
         }
         catch (Exception e)
