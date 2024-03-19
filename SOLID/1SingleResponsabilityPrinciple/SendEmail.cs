@@ -12,7 +12,7 @@ public class SendEmail
         Console.WriteLine($"From: {EmailFrom}");
         Console.WriteLine($"To: {EmailTo}");
         Console.WriteLine($"Subject: {EmailSubject}");
-        Console.WriteLine("----------------------------------");
+        Console.WriteLine("-----------------------------------------");
         Console.WriteLine($"{EmailBody}");
     }
     

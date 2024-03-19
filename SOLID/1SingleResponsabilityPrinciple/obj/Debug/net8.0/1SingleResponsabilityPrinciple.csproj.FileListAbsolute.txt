@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/bin/Debug/net8.0/1SingleResponsabilityPrinciple
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/bin/Debug/net8.0/1SingleResponsabilityPrinciple.deps.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/bin/Debug/net8.0/1SingleResponsabilityPrinciple.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/bin/Debug/net8.0/1SingleResponsabilityPrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/bin/Debug/net8.0/1SingleResponsabilityPrinciple.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/refint/1SingleResponsabilityPrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/1SingleResponsabilityPrinciple.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/Debug/net8.0/ref/1SingleResponsabilityPrinciple.dll

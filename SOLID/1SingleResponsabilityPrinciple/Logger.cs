@@ -4,8 +4,8 @@ public class Logger : ILogger
 {
     public void Info(string info)
     {
-        Console.WriteLine("######################");
+        Console.WriteLine("\n######################");
         Console.WriteLine(info);
-        Console.WriteLine("######################");
+        Console.WriteLine("######################\n");
     }
 }

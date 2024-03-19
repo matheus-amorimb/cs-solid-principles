@@ -2,3 +2,5 @@
 
 Order order = new Order();
 
+order.AddOrder();
+order.DeleteOrder();
