@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/1SingleResponsabilityPrinciple.csproj",
-      "projectName": "1SingleResponsabilityPrinciple",
-      "projectPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/1SingleResponsabilityPrinciple.csproj",
+      "projectUniqueName": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/SingleResponsabilityPrinciple/SingleResponsabilityPrinciple.csproj",
+      "projectName": "SingleResponsabilityPrinciple",
+      "projectPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/SingleResponsabilityPrinciple/SingleResponsabilityPrinciple.csproj",
       "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/1SingleResponsabilityPrinciple/obj/",
+      "outputPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/SingleResponsabilityPrinciple/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheus/.nuget/NuGet/NuGet.Config"

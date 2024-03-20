@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/bin/Debug/net8.0/2OpenClosedPrincipleExtensionMethod
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/bin/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.deps.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/bin/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/bin/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/bin/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/refint/2OpenClosedPrincipleExtensionMethod.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/2OpenClosedPrincipleExtensionMethod.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/ref/2OpenClosedPrincipleExtensionMethod.dll

@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/bin/Debug/net8.0/2OpenClosePrinciple
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/bin/Debug/net8.0/2OpenClosePrinciple.deps.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/bin/Debug/net8.0/2OpenClosePrinciple.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/bin/Debug/net8.0/2OpenClosePrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/bin/Debug/net8.0/2OpenClosePrinciple.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/refint/2OpenClosePrinciple.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/2OpenClosePrinciple.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/2OpenClosePrinciple/obj/Debug/net8.0/ref/2OpenClosePrinciple.dll
