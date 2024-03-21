@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrincipleExtensio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{7E2E53ED-F120-48CC-AEFC-845E2CD32F7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple1", "LiskovSubstitutionPrinciple1\LiskovSubstitutionPrinciple1.csproj", "{7835F2C5-26BE-494A-AB95-A0B5A1BF7DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{8275AA9B-31AA-4081-8E8D-7873689C8021}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{7E2E53ED-F120-48CC-AEFC-845E2CD32F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E2E53ED-F120-48CC-AEFC-845E2CD32F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E2E53ED-F120-48CC-AEFC-845E2CD32F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7835F2C5-26BE-494A-AB95-A0B5A1BF7DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7835F2C5-26BE-494A-AB95-A0B5A1BF7DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7835F2C5-26BE-494A-AB95-A0B5A1BF7DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7835F2C5-26BE-494A-AB95-A0B5A1BF7DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8275AA9B-31AA-4081-8E8D-7873689C8021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8275AA9B-31AA-4081-8E8D-7873689C8021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8275AA9B-31AA-4081-8E8D-7873689C8021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8275AA9B-31AA-4081-8E8D-7873689C8021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
