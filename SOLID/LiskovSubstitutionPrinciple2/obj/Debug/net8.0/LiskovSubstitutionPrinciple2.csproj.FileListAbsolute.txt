@@ -1,0 +1,15 @@
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.AssemblyInfoInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.AssemblyInfo.cs
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.csproj.CoreCompileInputs.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.sourcelink.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2.deps.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2.runtimeconfig.json
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/refint/LiskovSubstitutionPrinciple2.dll
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.pdb
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/LiskovSubstitutionPrinciple2.genruntimeconfig.cache
+/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple2/obj/Debug/net8.0/ref/LiskovSubstitutionPrinciple2.dll

@@ -12,15 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc29528-f1d4-4067-b8c7-e15f4b4b8826" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Manager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/Calculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/Sum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/SumEven.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Employee.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Seller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Seller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,30 +31,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.1SingleResponsabilityPrinciple.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.2OpenClosePrinciple.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.2OpenClosedPrinciple.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.SOLID.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.1SingleResponsabilityPrinciple.executor": "Run",
+    ".NET Project.2OpenClosePrinciple.executor": "Run",
+    ".NET Project.2OpenClosedPrinciple.executor": "Run",
+    ".NET Project.LiskovSubstitutionPrinciple1.executor": "Run",
+    ".NET Project.LiskovSubstitutionPrinciple2.executor": "Run",
+    ".NET Project.SOLID.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
-      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
-      &quot;/home/matheus/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/home/matheus/.local/share/Symbols/src"
     ]
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.LiskovSubstitutionPrinciple1">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.LiskovSubstitutionPrinciple2">
     <configuration name="1SingleResponsabilityPrinciple" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -131,6 +129,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="LiskovSubstitutionPrinciple2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/bin/Debug/net8.0/LiskovSubstitutionPrinciple2" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/bin/Debug/net8.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/LiskovSubstitutionPrinciple2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net8.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Manager" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -167,6 +183,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.LiskovSubstitutionPrinciple2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -177,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710756573750</updated>
       <workItem from="1710756575738" duration="11088000" />
-      <workItem from="1711112985921" duration="1263000" />
+      <workItem from="1711112985921" duration="3764000" />
     </task>
     <servers />
   </component>
