@@ -11,44 +11,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc29528-f1d4-4067-b8c7-e15f4b4b8826" name="Changes" comment="" />
+    <list default="true" id="acc29528-f1d4-4067-b8c7-e15f4b4b8826" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Manager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Seller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple1/Seller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrinciple/obj/Debug/net8.0/OpenClosedPrinciple.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClosedPrincipleExtensionMethod/obj/Debug/net8.0/OpenClosedPrincipleExtensionMethod.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2drByLUE0LeOebFXURpMOYWwIyN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.1SingleResponsabilityPrinciple.executor": "Run",
-    ".NET Project.2OpenClosePrinciple.executor": "Run",
-    ".NET Project.2OpenClosedPrinciple.executor": "Run",
-    ".NET Project.SOLID.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.1SingleResponsabilityPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.2OpenClosePrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.2OpenClosedPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.SOLID.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/home/matheus/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/home/matheus/.config/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/home/matheus/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.2OpenClosedPrinciple">
+}</component>
+  <component name="RunManager" selected=".NET Project.LiskovSubstitutionPrinciple1">
     <configuration name="1SingleResponsabilityPrinciple" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -167,6 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710756573750</updated>
       <workItem from="1710756575738" duration="11088000" />
+      <workItem from="1711112985921" duration="1263000" />
     </task>
     <servers />
   </component>
