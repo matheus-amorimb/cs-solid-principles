@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/ConsoleApp1LiskovSubstitutionPrinciple3/ConsoleApp1LiskovSubstitutionPrinciple3.csproj",
-      "projectName": "ConsoleApp1LiskovSubstitutionPrinciple3",
-      "projectPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/ConsoleApp1LiskovSubstitutionPrinciple3/ConsoleApp1LiskovSubstitutionPrinciple3.csproj",
+      "projectUniqueName": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple3/LiskovSubstitutionPrinciple3.csproj",
+      "projectName": "LiskovSubstitutionPrinciple3",
+      "projectPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple3/LiskovSubstitutionPrinciple3.csproj",
       "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/ConsoleApp1LiskovSubstitutionPrinciple3/obj/",
+      "outputPath": "/home/matheus/matheus-dev/code/cs/cs-solid-principles/SOLID/LiskovSubstitutionPrinciple3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheus/.nuget/NuGet/NuGet.Config"

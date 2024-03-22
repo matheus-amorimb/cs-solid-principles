@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple2", "LiskovSubstitutionPrinciple2\LiskovSubstitutionPrinciple2.csproj", "{E43B3892-A93A-4047-85CA-EBF778BA2077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1LiskovSubstitutionPrinciple3", "ConsoleApp1LiskovSubstitutionPrinciple3\ConsoleApp1LiskovSubstitutionPrinciple3.csproj", "{B27476D6-8A95-41BE-9EAA-44488027B315}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple3", "LiskovSubstitutionPrinciple3\LiskovSubstitutionPrinciple3.csproj", "{B27476D6-8A95-41BE-9EAA-44488027B315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,6 +5,7 @@
     <projectFile>2OpenClosePrinciple/2OpenClosePrinciple.csproj</projectFile>
     <projectFile>2OpenClosedPrinciple/2OpenClosedPrinciple.csproj</projectFile>
     <projectFile>LiskovSubstitutionPrinciple1/LiskovSubstitutionPrinciple1.csproj</projectFile>
+    <projectFile>LiskovSubstitutionPrinciple3/LiskovSubstitutionPrinciple3.csproj</projectFile>
     <projectFile>SOLID/SOLID.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -12,7 +13,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc29528-f1d4-4067-b8c7-e15f4b4b8826" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/Birds.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/Duck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/FlyingBirds.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/Penguim.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/ConsoleApp1LiskovSubstitutionPrinciple3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/LiskovSubstitutionPrinciple3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/ConsoleApp1LiskovSubstitutionPrinciple3.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/Debug/net8.0/ConsoleApp1LiskovSubstitutionPrinciple3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1LiskovSubstitutionPrinciple3/obj/rider.project.restore.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SOLID.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +76,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.LiskovSubstitutionPrinciple2">
+  <component name="RunManager" selected=".NET Project.LiskovSubstitutionPrinciple3">
     <configuration name="1SingleResponsabilityPrinciple" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -144,6 +167,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="LiskovSubstitutionPrinciple3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LiskovSubstitutionPrinciple3/LiskovSubstitutionPrinciple3.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Manager" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -195,7 +236,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710756573750</updated>
       <workItem from="1710756575738" duration="11088000" />
-      <workItem from="1711112985921" duration="5017000" />
+      <workItem from="1711112985921" duration="6260000" />
     </task>
     <servers />
   </component>
