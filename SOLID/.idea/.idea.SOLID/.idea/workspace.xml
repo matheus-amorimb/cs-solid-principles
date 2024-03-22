@@ -12,9 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc29528-f1d4-4067-b8c7-e15f4b4b8826" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/Calculator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/Sum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiskovSubstitutionPrinciple2/SumEven.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOLID.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID.sln" afterDir="false" />
     </list>
@@ -198,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710756573750</updated>
       <workItem from="1710756575738" duration="11088000" />
-      <workItem from="1711112985921" duration="3764000" />
+      <workItem from="1711112985921" duration="5017000" />
     </task>
     <servers />
   </component>
